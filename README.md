@@ -1,4 +1,3 @@
-
 # EducaCode
 
 O EducaCode é um projeto inovador que busca tornar a educação em tecnologia acessível a todos. Esta plataforma online oferece uma variedade de cursos abrangendo áreas como frontend, backend, mobile, entre outras. O diferencial fundamental do EducaCode reside em seu compromisso com a inclusão social, focalizando o atendimento à população em situação de vulnerabilidade.
@@ -9,11 +8,13 @@ A comprovação de vulnerabilidade assegura que os recursos se destinem efetivam
 
 *Nota: As informações sobre o processo de comprovação de vulnerabilidade estarão disponíveis no final do texto para orientar os usuários interessados.
 
+## Fins Acadêmicos
+
+Este projeto é desenvolvido exclusivamente para fins acadêmicos como parte do [Bootcamp da Generation Brazil](https://brazil.generation.org/).
 
 ## Referência
 
  - [Objetivo de Desenvolvimento Sustentável nº4 da ONU - Educação de Qualidade ](https://brasil.un.org/pt-br/sdgs/4)
-
 
 ## Autores
 
@@ -23,9 +24,9 @@ A comprovação de vulnerabilidade assegura que os recursos se destinem efetivam
 - [@Gabriel Fernandez](https://github.com/GabrielFernandez26)
 - [@Lucas Camargo](https://github.com/camargollucas)
 - [@Natália Oliveira](https://github.com/nataliabpo)
+
 ## Stack utilizada
 
 **Front-end:** 
 
 **Back-end:** Java com Spring Framework: A aplicação é desenvolvida em Java, fazendo uso do Spring Framework para facilitar o desenvolvimento e manutenção.
-
