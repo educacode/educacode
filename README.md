@@ -38,4 +38,4 @@ Este projeto é desenvolvido exclusivamente para fins acadêmicos como parte do 
 <img src="https://img.icons8.com/?size=256&id=90519&format=png" alt="Spring Framework" width="50">
 
 **Banco de Dados**
-<img src="https://img.icons8.com/?size=256&id=25010&format=png" alt "PostgreSQL" width="50">
+<img src="https://img.icons8.com/?size=256&id=25010&format=png" alt="PostgreSQL" width="50">
