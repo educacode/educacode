@@ -27,6 +27,12 @@ Este projeto é desenvolvido exclusivamente para fins acadêmicos como parte do 
 
 ## Stack utilizada
 
-**Front-end:** 
+**Front-end:**
+<img src="https://img.icons8.com/?size=256&id=bzf0DqjXFHIW&format=png" alt="React" width="50">
+<img src="https://img.icons8.com/?size=256&id=39853&format=png" alt="JavaScript" width="50">
+<img src="https://img.icons8.com/?size=256&id=vMqgHSToxrJR&format=png" alt="TypeScript" width="50">
+<img src="https://img.icons8.com/?size=256&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS" width="50">
 
-**Back-end:** Java com Spring Framework: A aplicação é desenvolvida em Java, fazendo uso do Spring Framework para facilitar o desenvolvimento e manutenção.
+**Back-end:**
+<img src="https://img.icons8.com/?size=256&id=2572&format=png" alt="Java" width="50">
+<img src="https://img.icons8.com/?size=256&id=90519&format=png" alt="Spring Framework" width="50">
